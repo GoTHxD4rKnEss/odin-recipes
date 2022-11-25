@@ -1,2 +1,2 @@
 # odin-recipes
-first HTML project
+first HTML project. Its just links to recipes. 
